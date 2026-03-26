@@ -1,0 +1,3 @@
+[submodule "MR-RATE"]
+	path = MR-RATE
+	url = https://github.com/Forithmus/MR-RATE.git
